@@ -44,7 +44,7 @@ def home_page():
         target="_blank">Kaggle</a>.</p></li>
         
         <li><p style="font-size:15px;"><b>GitHub Repository</b> for this 
-        project can be found <a href="https://github.com/chikorita5/walmart-sales-data-vizualization" 
+        project can be found <a href="https://github.com/chikorita5/walmart-sales-data-visualization" 
         target="_blank">here</a>.</p></li>
         
         </ul> 
