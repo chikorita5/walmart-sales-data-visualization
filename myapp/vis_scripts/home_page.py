@@ -50,6 +50,13 @@ def home_page():
         </ul> 
         </div>
         </div> 
+
+        <hr>
+
+        <div class="row"> <div class="column"> <h2 style="font-size:18px;">Author</h2> <ul> <li><p 
+        style="font-size:18px;"><a href="https://www.linkedin.com/in/dimple-singhania/" target="_blank">Dimple Singhania</a></p></li> </ul> </div> 
+        </div>
+
     
     """)
 
